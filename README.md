@@ -1,3 +1,8 @@
+
+### This code is associated with the paper from O'Donnell et al., "PBeyond excitation/inhibition imbalance in multidimensional models of neural circuit changes in brain disorders". eLife, 2017. http://dx.doi.org/10.7554/eLife.26724
+
+
+
 # ODonnelletal_2017_imbalances
 Model code for O'Donnell et al, 2017.
 Study on multidimensional imbalances in neural circuit properties in brain disorders.
